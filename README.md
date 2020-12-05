@@ -1,4 +1,4 @@
-# isl_talk_v1
+# ISL_TALK
 
 A new Flutter application.
 
